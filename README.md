@@ -1,7 +1,4 @@
 # Real-Time Executive (RTX) Implementation on ARM Cortex-M4 (ECE-350)
-
-This repo contains the work done for the lab component of ECE 350 at the University of Waterloo. The code was written by myself (Nicholas Cantone), Sharanya Gupta, Andrey Golovanov and Joshua Leveck. 
-
 ---
 
 This project implements a Real-Time Executive (RTX) on an ARM Cortex-M4 microcontroller, focusing on a custom memory management system, task scheduling, and real-time task management. The implementation follows the guidelines of embedded system design and real-time operating systems (RTOS) principles.
